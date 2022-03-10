@@ -36,8 +36,8 @@ $ pip install requests bs4 futures
 $ pip install cython
 $ rm -rf roy-brute
 $ termux-setup-storage
-$ git clone https://github.com/ROY-ID/roy-brute
-$ cd roy-brute
+$ git clone https://github.com/BocilAlok/Brute
+$ cd Brute
 $ git pull
 $ python run.py
 ````
